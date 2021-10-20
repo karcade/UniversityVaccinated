@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<university>
+    <students>
+        <student firstname="Алеська" surname="Малышка" specialization="ИТ" course="3" vacinated="true" />
+        <student firstname="Любовь" surname="Самуйлик" specialization="ИТ" course="3" vacinated="true" />
+        <student firstname="Сергей" surname="Костинский" specialization="Экономика" course="4" vacinated="false" />
+        <student firstname="Милана" surname="Басевич" specialization="ФОЗОЖ" course="1" vacinated="false" />
+    </students>
+
+    <teachers>
+        <teacher firstname="Павел" surname="Пигаль" discipline="Компьютерные сети" experience="6" vacinated="true" />
+        <teacher firstname="Светлана" surname="Соколова" discipline="Философия" experience="7" vacinated="false" />
+        <teacher firstname="Кастусь" surname="Калиновский" discipline="Политология" experience="4" vacinated="false" />
+    </teachers>
+</university>
